@@ -1,1 +1,0 @@
-# Knn prueba readme
